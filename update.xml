@@ -1,10 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.3.21</latestVersion>
-    <latestVersionCode>91</latestVersionCode>
+    <latestVersion>2.3.23</latestVersion>
+    <latestVersionCode>95</latestVersionCode>
     <url>https://4pda.ru/forum/index.php?s=&amp;showtopic=474979&amp;view=findpost&amp;p=62424727</url>
     <releaseNotes>
-Версия 2.3.22 доступна для загрузки.
+Версия 2.3.23 доступна для загрузки.
     </releaseNotes>
   </update>
 </AppUpdater>
